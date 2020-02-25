@@ -9,3 +9,6 @@ The Sudoku part is used to solve sudoku problem.
 You just need to input the puzzle file path.
 
 ## Example1
+https://github.com/BiaoChen0217/AI-Games/blob/master/s01as.png
+
+https://github.com/BiaoChen0217/AI-Games/blob/master/solve.png
