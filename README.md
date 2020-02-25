@@ -13,3 +13,11 @@ You just need to input the puzzle file path.
 ![image](https://github.com/BiaoChen0217/AI-Games/blob/master/s01as.png)
 
 ![image](https://github.com/BiaoChen0217/AI-Games/blob/master/solve.png)
+
+
+#### Loshu
+
+#### What is that?
+a picture of the loshu game solving the inputed txt file 
+
+![image](https://github.com/BiaoChen0217/AI-Games/blob/master/Screen Shot 2020-02-24 at 11.15.20 PM.png)
