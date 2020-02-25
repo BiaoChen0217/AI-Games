@@ -1,4 +1,4 @@
-### #AI-Games
+#AI-Games
 AI Games(including Sudoku and Loshu)
 
 ###Sudoku
